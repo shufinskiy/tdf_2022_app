@@ -1,0 +1,463 @@
+"POS","RIDER","COUNTRY","TIME","STAGE"
+1,"Jumbo - Visma","NED",2787,1
+2,"INEOS Grenadiers","GBR",2808,1
+3,"Trek-Segafredo","USA",2824,1
+4,"Quick Step Alpha Vinyl Team","BEL",2829,1
+5,"Bahrain Victorious","BRN",2839,1
+6,"Bora-hansgrohe","GER",2844,1
+7,"UAE Team Emirates","UAE",2867,1
+8,"EF Education-EasyPost","USA",2869,1
+9,"Cofidis","FRA",2871,1
+10,"Team BikeExchange - Jayco","AUS",2882,1
+11,"Groupama - FDJ","FRA",2882,1
+12,"Team DSM","GER",2891,1
+13,"Intermarche-Wanty-Gobert Materiaux","BEL",2895,1
+14,"Ag2r - Citroën","FRA",2895,1
+15,"Movistar","SPA",2896,1
+16,"Astana Qazaqstan Team","KAZ",2912,1
+17,"Israel - Premier Tech","ISR",2916,1
+18,"Alpecin-Deceuninck","BEL",2917,1
+19,"Arkea - Samsic","FRA",2918,1
+20,"Soudal Lotto","BEL",2936,1
+21,"B&B Hotels - KTM","FRA",2936,1
+22,"TotalEnergies","FRA",2940,1
+1,"INEOS Grenadiers","GBR",401354,10
+2,"Jumbo - Visma","NED",401942,10
+3,"Bora-hansgrohe","GER",402143,10
+4,"UAE Team Emirates","UAE",402549,10
+5,"Groupama - FDJ","FRA",402554,10
+6,"Bahrain Victorious","BRN",402722,10
+7,"EF Education-EasyPost","USA",403018,10
+8,"Movistar","SPA",403688,10
+9,"Arkea - Samsic","FRA",403800,10
+10,"Cofidis","FRA",403842,10
+11,"Ag2r - Citroën","FRA",403905,10
+12,"Team DSM","GER",404244,10
+13,"Intermarche-Wanty-Gobert Materiaux","BEL",404497,10
+14,"Israel - Premier Tech","ISR",404913,10
+15,"Trek-Segafredo","USA",404934,10
+16,"Astana Qazaqstan Team","KAZ",405812,10
+17,"B&B Hotels - KTM","FRA",406950,10
+18,"Alpecin-Deceuninck","BEL",408664,10
+19,"Team BikeExchange - Jayco","AUS",409005,10
+20,"TotalEnergies","FRA",409395,10
+21,"Soudal Lotto","BEL",410305,10
+22,"Quick Step Alpha Vinyl Team","BEL",412730,10
+1,"INEOS Grenadiers","GBR",448623,11
+2,"Jumbo - Visma","NED",449318,11
+3,"Groupama - FDJ","FRA",450587,11
+4,"UAE Team Emirates","UAE",451049,11
+5,"Bora-hansgrohe","GER",451806,11
+6,"Arkea - Samsic","FRA",452197,11
+7,"Bahrain Victorious","BRN",453336,11
+8,"Movistar","SPA",453506,11
+9,"Cofidis","FRA",453609,11
+10,"Team DSM","GER",453968,11
+11,"Ag2r - Citroën","FRA",454592,11
+12,"EF Education-EasyPost","USA",454625,11
+13,"Intermarche-Wanty-Gobert Materiaux","BEL",454995,11
+14,"Astana Qazaqstan Team","KAZ",455370,11
+15,"Israel - Premier Tech","ISR",455959,11
+16,"Trek-Segafredo","USA",456407,11
+17,"B&B Hotels - KTM","FRA",458304,11
+18,"TotalEnergies","FRA",459785,11
+19,"Alpecin-Deceuninck","BEL",460647,11
+20,"Team BikeExchange - Jayco","AUS",461337,11
+21,"Soudal Lotto","BEL",463727,11
+22,"Quick Step Alpha Vinyl Team","BEL",464944,11
+1,"INEOS Grenadiers","GBR",502239,12
+2,"Jumbo - Visma","NED",503185,12
+3,"Groupama - FDJ","FRA",504914,12
+4,"UAE Team Emirates","UAE",505799,12
+5,"Bora-hansgrohe","GER",507668,12
+6,"Arkea - Samsic","FRA",508107,12
+7,"Movistar","SPA",508378,12
+8,"Bahrain Victorious","BRN",508735,12
+9,"Team DSM","GER",509264,12
+10,"Cofidis","FRA",509980,12
+11,"Astana Qazaqstan Team","KAZ",510425,12
+12,"Intermarche-Wanty-Gobert Materiaux","BEL",510868,12
+13,"EF Education-EasyPost","USA",511262,12
+14,"Trek-Segafredo","USA",511379,12
+15,"Ag2r - Citroën","FRA",511446,12
+16,"Israel - Premier Tech","ISR",511617,12
+17,"B&B Hotels - KTM","FRA",515239,12
+18,"TotalEnergies","FRA",518254,12
+19,"Alpecin-Deceuninck","BEL",518474,12
+20,"Team BikeExchange - Jayco","AUS",519065,12
+21,"Soudal Lotto","BEL",522270,12
+22,"Quick Step Alpha Vinyl Team","BEL",522816,12
+1,"INEOS Grenadiers","GBR",548510,13
+2,"Jumbo - Visma","NED",549769,13
+3,"Groupama - FDJ","FRA",551183,13
+4,"UAE Team Emirates","UAE",552427,13
+5,"Bora-hansgrohe","GER",554252,13
+6,"Movistar","SPA",554647,13
+7,"Arkea - Samsic","FRA",554691,13
+8,"Bahrain Victorious","BRN",554997,13
+9,"Team DSM","GER",555870,13
+10,"Astana Qazaqstan Team","KAZ",557009,13
+11,"Cofidis","FRA",557066,13
+12,"Intermarche-Wanty-Gobert Materiaux","BEL",557452,13
+13,"Trek-Segafredo","USA",557646,13
+14,"EF Education-EasyPost","USA",557872,13
+15,"Israel - Premier Tech","ISR",557882,13
+16,"Ag2r - Citroën","FRA",558043,13
+17,"B&B Hotels - KTM","FRA",561846,13
+18,"TotalEnergies","FRA",565286,13
+19,"Team BikeExchange - Jayco","AUS",565727,13
+20,"Alpecin-Deceuninck","BEL",565786,13
+21,"Quick Step Alpha Vinyl Team","BEL",569432,13
+22,"Soudal Lotto","BEL",570574,13
+1,"INEOS Grenadiers","GBR",599061,14
+2,"Jumbo - Visma","NED",601094,14
+3,"Groupama - FDJ","FRA",601430,14
+4,"UAE Team Emirates","UAE",602890,14
+5,"Bora-hansgrohe","GER",603207,14
+6,"Movistar","SPA",605274,14
+7,"Bahrain Victorious","BRN",606175,14
+8,"Arkea - Samsic","FRA",606841,14
+9,"EF Education-EasyPost","USA",606919,14
+10,"Team DSM","GER",607721,14
+11,"Israel - Premier Tech","ISR",608063,14
+12,"Trek-Segafredo","USA",608487,14
+13,"Cofidis","FRA",608769,14
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",608923,14
+15,"Astana Qazaqstan Team","KAZ",609040,14
+16,"Ag2r - Citroën","FRA",609074,14
+17,"B&B Hotels - KTM","FRA",613415,14
+18,"Team BikeExchange - Jayco","AUS",617262,14
+19,"TotalEnergies","FRA",618446,14
+20,"Alpecin-Deceuninck","BEL",618814,14
+21,"Soudal Lotto","BEL",622267,14
+22,"Quick Step Alpha Vinyl Team","BEL",622517,14
+1,"INEOS Grenadiers","GBR",647202,15
+2,"Jumbo - Visma","NED",649318,15
+3,"Groupama - FDJ","FRA",649571,15
+4,"UAE Team Emirates","UAE",651081,15
+5,"Bora-hansgrohe","GER",651372,15
+6,"Movistar","SPA",653415,15
+7,"Bahrain Victorious","BRN",654316,15
+8,"Arkea - Samsic","FRA",654982,15
+9,"EF Education-EasyPost","USA",655060,15
+10,"Team DSM","GER",656089,15
+11,"Israel - Premier Tech","ISR",656431,15
+12,"Trek-Segafredo","USA",656652,15
+13,"Cofidis","FRA",656982,15
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",657064,15
+15,"Astana Qazaqstan Team","KAZ",657181,15
+16,"Ag2r - Citroën","FRA",657215,15
+17,"B&B Hotels - KTM","FRA",661556,15
+18,"Team BikeExchange - Jayco","AUS",666196,15
+19,"TotalEnergies","FRA",666639,15
+20,"Alpecin-Deceuninck","BEL",667003,15
+21,"Soudal Lotto","BEL",670635,15
+22,"Quick Step Alpha Vinyl Team","BEL",672730,15
+1,"INEOS Grenadiers","GBR",695830,16
+2,"Groupama - FDJ","FRA",697561,16
+3,"Jumbo - Visma","NED",697864,16
+4,"UAE Team Emirates","UAE",700118,16
+5,"Bora-hansgrohe","GER",700643,16
+6,"Movistar","SPA",702066,16
+7,"Bahrain Victorious","BRN",702722,16
+8,"Israel - Premier Tech","ISR",704503,16
+9,"Arkea - Samsic","FRA",704815,16
+10,"Team DSM","GER",705281,16
+11,"EF Education-EasyPost","USA",705433,16
+12,"Astana Qazaqstan Team","KAZ",706949,16
+13,"Cofidis","FRA",707217,16
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",707369,16
+15,"Trek-Segafredo","USA",707466,16
+16,"Ag2r - Citroën","FRA",708207,16
+17,"B&B Hotels - KTM","FRA",712576,16
+18,"Team BikeExchange - Jayco","AUS",717875,16
+19,"TotalEnergies","FRA",718186,16
+20,"Alpecin-Deceuninck","BEL",719346,16
+21,"Soudal Lotto","BEL",721352,16
+22,"Quick Step Alpha Vinyl Team","BEL",723884,16
+1,"INEOS Grenadiers","GBR",733901,17
+2,"Groupama - FDJ","FRA",735800,17
+3,"Jumbo - Visma","NED",736762,17
+4,"UAE Team Emirates","UAE",738756,17
+5,"Bora-hansgrohe","GER",739188,17
+6,"Movistar","SPA",740681,17
+7,"Bahrain Victorious","BRN",742083,17
+8,"Team DSM","GER",743608,17
+9,"Arkea - Samsic","FRA",744665,17
+10,"EF Education-EasyPost","USA",745132,17
+11,"Israel - Premier Tech","ISR",745318,17
+12,"Intermarche-Wanty-Gobert Materiaux","BEL",745974,17
+13,"Astana Qazaqstan Team","KAZ",746018,17
+14,"Trek-Segafredo","USA",746101,17
+15,"Ag2r - Citroën","FRA",748534,17
+16,"Cofidis","FRA",748717,17
+17,"B&B Hotels - KTM","FRA",752736,17
+18,"Team BikeExchange - Jayco","AUS",758074,17
+19,"TotalEnergies","FRA",758806,17
+20,"Alpecin-Deceuninck","BEL",761094,17
+21,"Soudal Lotto","BEL",762929,17
+22,"Quick Step Alpha Vinyl Team","BEL",765898,17
+1,"INEOS Grenadiers","GBR",777768,18
+2,"Groupama - FDJ","FRA",779745,18
+3,"Jumbo - Visma","NED",780269,18
+4,"Bora-hansgrohe","GER",784067,18
+5,"Movistar","SPA",784995,18
+6,"UAE Team Emirates","UAE",785393,18
+7,"Bahrain Victorious","BRN",788178,18
+8,"Team DSM","GER",789613,18
+9,"Israel - Premier Tech","ISR",791347,18
+10,"Arkea - Samsic","FRA",791538,18
+11,"Astana Qazaqstan Team","KAZ",791548,18
+12,"EF Education-EasyPost","USA",791945,18
+13,"Trek-Segafredo","USA",792648,18
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",792758,18
+15,"Ag2r - Citroën","FRA",796228,18
+16,"Cofidis","FRA",797995,18
+17,"B&B Hotels - KTM","FRA",800598,18
+18,"Team BikeExchange - Jayco","AUS",806017,18
+19,"TotalEnergies","FRA",806679,18
+20,"Alpecin-Deceuninck","BEL",810152,18
+21,"Soudal Lotto","BEL",811502,18
+22,"Quick Step Alpha Vinyl Team","BEL",815668,18
+1,"INEOS Grenadiers","GBR",819563,19
+2,"Groupama - FDJ","FRA",821520,19
+3,"Jumbo - Visma","NED",822099,19
+4,"Bora-hansgrohe","GER",825896,19
+5,"Movistar","SPA",826814,19
+6,"UAE Team Emirates","UAE",827481,19
+7,"Bahrain Victorious","BRN",830118,19
+8,"Team DSM","GER",831494,19
+9,"Israel - Premier Tech","ISR",833254,19
+10,"Arkea - Samsic","FRA",833313,19
+11,"Astana Qazaqstan Team","KAZ",833399,19
+12,"EF Education-EasyPost","USA",833791,19
+13,"Intermarche-Wanty-Gobert Materiaux","BEL",834533,19
+14,"Trek-Segafredo","USA",834618,19
+15,"Ag2r - Citroën","FRA",838260,19
+16,"Cofidis","FRA",840026,19
+17,"B&B Hotels - KTM","FRA",842544,19
+18,"Team BikeExchange - Jayco","AUS",847950,19
+19,"TotalEnergies","FRA",848606,19
+20,"Alpecin-Deceuninck","BEL",852211,19
+21,"Soudal Lotto","BEL",853432,19
+22,"Quick Step Alpha Vinyl Team","BEL",857650,19
+1,"Jumbo - Visma","NED",52209,2
+2,"INEOS Grenadiers","GBR",52230,2
+3,"Trek-Segafredo","USA",52246,2
+4,"Quick Step Alpha Vinyl Team","BEL",52251,2
+5,"Bahrain Victorious","BRN",52261,2
+6,"Bora-hansgrohe","GER",52266,2
+7,"UAE Team Emirates","UAE",52289,2
+8,"EF Education-EasyPost","USA",52291,2
+9,"Cofidis","FRA",52293,2
+10,"Team BikeExchange - Jayco","AUS",52304,2
+11,"Groupama - FDJ","FRA",52304,2
+12,"Team DSM","GER",52313,2
+13,"Intermarche-Wanty-Gobert Materiaux","BEL",52317,2
+14,"Ag2r - Citroën","FRA",52317,2
+15,"Movistar","SPA",52318,2
+16,"Astana Qazaqstan Team","KAZ",52334,2
+17,"Israel - Premier Tech","ISR",52338,2
+18,"Alpecin-Deceuninck","BEL",52339,2
+19,"Arkea - Samsic","FRA",52340,2
+20,"Soudal Lotto","BEL",52358,2
+21,"B&B Hotels - KTM","FRA",52358,2
+22,"TotalEnergies","FRA",52362,2
+1,"INEOS Grenadiers","GBR",828424,20
+2,"Groupama - FDJ","FRA",830677,20
+3,"Jumbo - Visma","NED",830988,20
+4,"Bora-hansgrohe","GER",834919,20
+5,"Movistar","SPA",836329,20
+6,"UAE Team Emirates","UAE",836619,20
+7,"Bahrain Victorious","BRN",839136,20
+8,"Team DSM","GER",840815,20
+9,"Arkea - Samsic","FRA",842658,20
+10,"Astana Qazaqstan Team","KAZ",842787,20
+11,"EF Education-EasyPost","USA",842978,20
+12,"Israel - Premier Tech","ISR",843125,20
+13,"Trek-Segafredo","USA",843906,20
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",844121,20
+15,"Ag2r - Citroën","FRA",847875,20
+16,"Cofidis","FRA",849381,20
+17,"B&B Hotels - KTM","FRA",852265,20
+18,"Team BikeExchange - Jayco","AUS",857284,20
+19,"TotalEnergies","FRA",857920,20
+20,"Alpecin-Deceuninck","BEL",861950,20
+21,"Soudal Lotto","BEL",862943,20
+22,"Quick Step Alpha Vinyl Team","BEL",866888,20
+1,"INEOS Grenadiers","GBR",860583,21
+2,"Groupama - FDJ","FRA",862836,21
+3,"Jumbo - Visma","NED",863277,21
+4,"Bora-hansgrohe","GER",867108,21
+5,"Movistar","SPA",868465,21
+6,"UAE Team Emirates","UAE",868977,21
+7,"Bahrain Victorious","BRN",871295,21
+8,"Team DSM","GER",872951,21
+9,"Arkea - Samsic","FRA",874794,21
+10,"Astana Qazaqstan Team","KAZ",874923,21
+11,"EF Education-EasyPost","USA",875148,21
+12,"Israel - Premier Tech","ISR",875367,21
+13,"Trek-Segafredo","USA",876042,21
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",876280,21
+15,"Ag2r - Citroën","FRA",880283,21
+16,"Cofidis","FRA",881673,21
+17,"B&B Hotels - KTM","FRA",884401,21
+18,"Team BikeExchange - Jayco","AUS",889420,21
+19,"TotalEnergies","FRA",890056,21
+20,"Alpecin-Deceuninck","BEL",894132,21
+21,"Soudal Lotto","BEL",895127,21
+22,"Quick Step Alpha Vinyl Team","BEL",899176,21
+1,"Jumbo - Visma","NED",97488,3
+2,"INEOS Grenadiers","GBR",97509,3
+3,"Trek-Segafredo","USA",97525,3
+4,"Quick Step Alpha Vinyl Team","BEL",97530,3
+5,"Bora-hansgrohe","GER",97545,3
+6,"UAE Team Emirates","UAE",97568,3
+7,"Team BikeExchange - Jayco","AUS",97583,3
+8,"Groupama - FDJ","FRA",97583,3
+9,"Team DSM","GER",97592,3
+10,"Intermarche-Wanty-Gobert Materiaux","BEL",97596,3
+11,"Ag2r - Citroën","FRA",97596,3
+12,"EF Education-EasyPost","USA",97609,3
+13,"Alpecin-Deceuninck","BEL",97618,3
+14,"Arkea - Samsic","FRA",97619,3
+15,"Movistar","SPA",97636,3
+16,"Soudal Lotto","BEL",97637,3
+17,"B&B Hotels - KTM","FRA",97637,3
+18,"TotalEnergies","FRA",97641,3
+19,"Astana Qazaqstan Team","KAZ",97652,3
+20,"Bahrain Victorious","BRN",97657,3
+21,"Cofidis","FRA",97689,3
+22,"Israel - Premier Tech","ISR",97695,3
+1,"Jumbo - Visma","NED",140992,4
+2,"INEOS Grenadiers","GBR",141021,4
+3,"Trek-Segafredo","USA",141037,4
+4,"Quick Step Alpha Vinyl Team","BEL",141042,4
+5,"Bora-hansgrohe","GER",141057,4
+6,"UAE Team Emirates","UAE",141080,4
+7,"Groupama - FDJ","FRA",141095,4
+8,"Team DSM","GER",141104,4
+9,"Intermarche-Wanty-Gobert Materiaux","BEL",141108,4
+10,"Ag2r - Citroën","FRA",141108,4
+11,"EF Education-EasyPost","USA",141121,4
+12,"Alpecin-Deceuninck","BEL",141130,4
+13,"Arkea - Samsic","FRA",141131,4
+14,"Movistar","SPA",141148,4
+15,"Soudal Lotto","BEL",141149,4
+16,"B&B Hotels - KTM","FRA",141149,4
+17,"TotalEnergies","FRA",141153,4
+18,"Astana Qazaqstan Team","KAZ",141164,4
+19,"Bahrain Victorious","BRN",141169,4
+20,"Team BikeExchange - Jayco","AUS",141180,4
+21,"Israel - Premier Tech","ISR",141207,4
+22,"Cofidis","FRA",141279,4
+1,"INEOS Grenadiers","GBR",176058,5
+2,"Jumbo - Visma","NED",176059,5
+3,"Trek-Segafredo","USA",176061,5
+4,"EF Education-EasyPost","USA",176064,5
+5,"Quick Step Alpha Vinyl Team","BEL",176079,5
+6,"Intermarche-Wanty-Gobert Materiaux","BEL",176081,5
+7,"Bora-hansgrohe","GER",176094,5
+8,"Groupama - FDJ","FRA",176132,5
+9,"Team DSM","GER",176141,5
+10,"Arkea - Samsic","FRA",176168,5
+11,"Israel - Premier Tech","ISR",176180,5
+12,"Bahrain Victorious","BRN",176206,5
+13,"Alpecin-Deceuninck","BEL",176294,5
+14,"Movistar","SPA",176300,5
+15,"Cofidis","FRA",176316,5
+16,"Team BikeExchange - Jayco","AUS",176332,5
+17,"UAE Team Emirates","UAE",176334,5
+18,"B&B Hotels - KTM","FRA",176517,5
+19,"Ag2r - Citroën","FRA",176528,5
+20,"Soudal Lotto","BEL",176592,5
+21,"TotalEnergies","FRA",176816,5
+22,"Astana Qazaqstan Team","KAZ",177454,5
+1,"INEOS Grenadiers","GBR",224157,6
+2,"Jumbo - Visma","NED",224218,6
+3,"Bora-hansgrohe","GER",224298,6
+4,"EF Education-EasyPost","USA",224336,6
+5,"Trek-Segafredo","USA",224342,6
+6,"Bahrain Victorious","BRN",224360,6
+7,"Team DSM","GER",224391,6
+8,"UAE Team Emirates","UAE",224464,6
+9,"Arkea - Samsic","FRA",224469,6
+10,"Groupama - FDJ","FRA",224507,6
+11,"Israel - Premier Tech","ISR",224533,6
+12,"Intermarche-Wanty-Gobert Materiaux","BEL",224555,6
+13,"Cofidis","FRA",224578,6
+14,"Ag2r - Citroën","FRA",224692,6
+15,"Quick Step Alpha Vinyl Team","BEL",224763,6
+16,"B&B Hotels - KTM","FRA",224778,6
+17,"Soudal Lotto","BEL",224864,6
+18,"Movistar","SPA",224887,6
+19,"Alpecin-Deceuninck","BEL",224914,6
+20,"Team BikeExchange - Jayco","AUS",224982,6
+21,"TotalEnergies","FRA",225096,6
+22,"Astana Qazaqstan Team","KAZ",226046,6
+1,"INEOS Grenadiers","GBR",267205,7
+2,"Jumbo - Visma","NED",267231,7
+3,"EF Education-EasyPost","USA",267560,7
+4,"Bora-hansgrohe","GER",267585,7
+5,"Groupama - FDJ","FRA",267663,7
+6,"UAE Team Emirates","UAE",267707,7
+7,"Bahrain Victorious","BRN",267730,7
+8,"Trek-Segafredo","USA",267960,7
+9,"Arkea - Samsic","FRA",268040,7
+10,"Team DSM","GER",268071,7
+11,"Israel - Premier Tech","ISR",268163,7
+12,"Ag2r - Citroën","FRA",268231,7
+13,"Cofidis","FRA",268257,7
+14,"Movistar","SPA",268582,7
+15,"Intermarche-Wanty-Gobert Materiaux","BEL",268611,7
+16,"B&B Hotels - KTM","FRA",268762,7
+17,"TotalEnergies","FRA",269276,7
+18,"Soudal Lotto","BEL",269439,7
+19,"Alpecin-Deceuninck","BEL",269440,7
+20,"Quick Step Alpha Vinyl Team","BEL",269463,7
+21,"Team BikeExchange - Jayco","AUS",269748,7
+22,"Astana Qazaqstan Team","KAZ",269938,7
+1,"INEOS Grenadiers","GBR",312763,8
+2,"Jumbo - Visma","NED",312789,8
+3,"EF Education-EasyPost","USA",313129,8
+4,"UAE Team Emirates","UAE",313303,8
+5,"Bahrain Victorious","BRN",313335,8
+6,"Bora-hansgrohe","GER",313339,8
+7,"Groupama - FDJ","FRA",313401,8
+8,"Arkea - Samsic","FRA",313723,8
+9,"Trek-Segafredo","USA",313805,8
+10,"Israel - Premier Tech","ISR",313997,8
+11,"Cofidis","FRA",314028,8
+12,"Ag2r - Citroën","FRA",314039,8
+13,"Team DSM","GER",314051,8
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",314338,8
+15,"Movistar","SPA",314379,8
+16,"B&B Hotels - KTM","FRA",314881,8
+17,"TotalEnergies","FRA",315134,8
+18,"Soudal Lotto","BEL",315198,8
+19,"Alpecin-Deceuninck","BEL",315500,8
+20,"Quick Step Alpha Vinyl Team","BEL",315698,8
+21,"Team BikeExchange - Jayco","AUS",315742,8
+22,"Astana Qazaqstan Team","KAZ",315772,8
+1,"INEOS Grenadiers","GBR",364444,9
+2,"Jumbo - Visma","NED",364508,9
+3,"UAE Team Emirates","UAE",365039,9
+4,"Groupama - FDJ","FRA",365120,9
+5,"Bora-hansgrohe","GER",365221,9
+6,"Ag2r - Citroën","FRA",366123,9
+7,"EF Education-EasyPost","USA",366235,9
+8,"Bahrain Victorious","BRN",366327,9
+9,"Movistar","SPA",366734,9
+10,"Arkea - Samsic","FRA",366749,9
+11,"Team DSM","GER",367278,9
+12,"Cofidis","FRA",367285,9
+13,"Israel - Premier Tech","ISR",367453,9
+14,"Intermarche-Wanty-Gobert Materiaux","BEL",367547,9
+15,"Trek-Segafredo","USA",367895,9
+16,"Astana Qazaqstan Team","KAZ",368829,9
+17,"B&B Hotels - KTM","FRA",369553,9
+18,"Team BikeExchange - Jayco","AUS",370679,9
+19,"TotalEnergies","FRA",370961,9
+20,"Alpecin-Deceuninck","BEL",371048,9
+21,"Soudal Lotto","BEL",371188,9
+22,"Quick Step Alpha Vinyl Team","BEL",373508,9
